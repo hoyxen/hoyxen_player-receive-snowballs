@@ -1,5 +1,5 @@
 <b>[CS:GO] Player receive 3x Snowballs (!snow)</b>
-<b>This plugin give 3x Snowballs.</b>
+<b>This plugin give 3x Snowballs.</b
 
 <b>Small Video:</b>
 https://www.youtube.com/watch?v=4h_uJD-c5Ws
