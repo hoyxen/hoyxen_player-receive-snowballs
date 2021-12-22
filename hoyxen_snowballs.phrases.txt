@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Join Message"
+	{
+		"en"			"[{darkblue} Snowballs {default}] Use the command {darkblue}!snow{default} to collect your snowballs. {darkblue}❄️"
+		"pt"			"[{darkblue} Snowballs {default}] Use o comando {darkblue}!snow{default} para coletar suas bolas de neve. {darkblue}❄️"
+		"pt_p"			"[{darkblue} Snowballs {default}] Use o comando {darkblue}!snow{default} para coletar suas bolas de neve. {darkblue}❄️"
+		"fr"			"[{darkblue} Snowballs {default}] Utilisez la commande {darkblue}!snow{default} pour ramasser vos boules de neige. {darkblue}❄️"
+	}
+
+	"Receive Snowballs"
+	{
+		"en"			"[{darkblue} Snowballs {default}] You collected {darkblue}3x Snowballs{default}! {darkblue}❄️"
+		"pt"			"[{darkblue} Snowballs {default}] Você coletou {darkblue}3x Bolas de Neve{default}! {darkblue}❄️"
+		"pt_p"			"[{darkblue} Snowballs {default}] Você coletou {darkblue}3x Bolas de Neve{default}! {darkblue}❄️"
+		"fr"			"[{darkblue} Snowballs {default}] Vous avez récupéré {darkblue}3x Boules de Neige{default}! {darkblue}❄️"
+	}
+}
